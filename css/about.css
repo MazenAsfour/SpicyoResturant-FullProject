@@ -1,0 +1,57 @@
+/*#18b532*/
+#logoname{
+    color: rgb(107, 106, 106);
+    font-size: 1.5vw;
+}
+.logo1{
+    margin-left: 9%;
+}
+.owl-carousel .owl-item img{
+    height: 21vw;
+}
+#df{
+    margin-top: 7vw;
+}
+.rec{
+    text-align:center;
+    font-size:3vw;
+    color:black;
+    font-family:cursive;
+    margin-top:3vw;
+    font-weight:bold;
+     margin-bottom:1vw;
+}
+.r1{
+animation-name:example;
+animation-iteration-count:10;
+animation-duration:4s;
+}
+
+@keyframes example{
+
+from{
+    color:red;
+    font-weight:bold
+}
+to{
+    color:white;
+    font-weight:bold
+}
+
+}
+#df2{
+    padding-top: .2vw;
+}
+#df3{
+    padding-top: 5vw;
+    padding-bottom: 5vw;
+}
+.copyright{
+    margin-top: 0;
+}
+.footer_logo{
+    margin-bottom: 0;
+}
+#df4{
+    padding-left: 44vw;
+}
